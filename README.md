@@ -1,5 +1,5 @@
 # Ice-Walker-Bot
-A bot that will automatically kill icewalkers with a bow on Hypixel Skyblock.
+A bot that will automatically kill icewalkers with a shortbow on Hypixel Skyblock.
 
 To use:
 install python (tested on 3.12, should work on other versions too tho)
