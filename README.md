@@ -9,3 +9,5 @@ install pyautogui, pillow and keyboard libraries using in a command prompt windo
 `pip install pyautogui keyboard pillow`
 
 then just run icewalkerbot.py
+
+to start / stop press [
